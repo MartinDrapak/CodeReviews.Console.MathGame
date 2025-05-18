@@ -8,7 +8,7 @@ namespace Mathgame
     /// <summary>
     /// Score property to keep track of the user's score.
     /// </summary>
-    private int Score { get; set; } = 0;
+    private int Score { get; set; }
     /// <summary>
     /// History property to keep track of the math examples and their results.
     /// </summary>
